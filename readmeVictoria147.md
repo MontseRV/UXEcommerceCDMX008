@@ -44,7 +44,7 @@ Como resultado de este proceso, obtuvimos los siguientes insights:
 
 Para la construcción de nuestro user persona realizamos una investigación en las redes sociales de Victoria147 (Facebook, Instagram y Twitter) para identificar el perfil de las mujeres, que ya eran parte de la Academia, o que mostraban interés en la misma; por otro lado integramos la información demográfica que nos compartió Estela. Como resultado, surgió este user persona:
 
-
+![user persona] (https://raw.githubusercontent.com/MontseRV/UXEcommerceCDMX008/master/Aurora.png)
 
 ## Definición de la solución/producto
 
