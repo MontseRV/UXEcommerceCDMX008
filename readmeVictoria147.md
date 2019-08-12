@@ -48,7 +48,7 @@ Para la construcción de nuestro user persona realizamos una investigación en l
 
 ## Definición de la solución/producto
 
-### ¿Cómo generar una buena comunicación que nos permita transmitir el objetivo de Victoria147?
+### ¿Cómo podemos transmitir el objetivo de Academia Online para que nos permita concluir el funnel de conversión?
 
 De acuerdo a los resultados de las pruebas de usabilidad, mapa de empatía y la propuesta de valor canvas se llega a la conclusión de hacer un rediseño a la página web de Academia Online.
 El objetivo es crear un nuevo formato con la información más digerible y concisa que nos lleve paso a paso desde conocer los programas hasta finalizar la compra y empezar tu curso sin ninguna.
