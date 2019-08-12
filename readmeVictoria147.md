@@ -46,11 +46,15 @@ Para la construcción de nuestro user persona realizamos una investigación en l
 
 ![user persona](https://raw.githubusercontent.com/MontseRV/UXEcommerceCDMX008/master/Aurora.png)
 
+### Costumer Journey
+
+Aurora quiere emprender un negocio de joyería pero no sabe bien cómo empezar, no sabe qué necesita, cuáles son los conocimientos y herramientas que necesita. Una amiga le recomienda revisar la oferta educativa de Victoria147.
+Aurora se mete a la página, encuentra con que hay dos modalidades, la Presencial y la Online, sin embargo, no hay mucha información en esa página, sólo un par de consideraciones generales. hace click en el boton "Inscríbete" y se le abre una segunda página que contiene mas información acerca de la Academia Online. Después de navegar un rato, no le queda muy clara la información sobre el programa Validación (contenidos, horarios, tiempo que le tiene que dedicar, etc), se registra porque cree que va a obtener mayores informes, sin embargo eso no sucede. Termina mandando un mail, solicitando los datos que quiere saber.
+
 ## Definición de la solución/producto
 
 ### ¿Cómo podemos transmitir el objetivo de Academia Online para que nos permita concluir el funnel de conversión?
 
-De acuerdo a los resultados de las pruebas de usabilidad, mapa de empatía y la propuesta de valor canvas se llega a la conclusión de hacer un rediseño a la página web de Academia Online.
+De acuerdo a los resultados de las pruebas de usabilidad, el mapa de empatía y la propuesta de valor canvas se llega a la conclusión de hacer un rediseño a la página web de Academia Online.
 El objetivo es crear un nuevo formato con la información más digerible y concisa que nos lleve paso a paso desde conocer los programas hasta finalizar la compra y empezar tu curso sin ninguna.
-
 
