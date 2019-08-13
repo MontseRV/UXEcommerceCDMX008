@@ -38,7 +38,7 @@ Como resultado de este proceso, obtuvimos los siguientes insights:
 -    También expresan que les gustaría saber qué herramientas van a tener al final del programa.
 -    Todas tienen dudas sobre quiénes son los Fellows.
 -    En cuanto al formulario de registro, todas sintieron necesidad de consultarnos para confirmar si se trataba del correcto. -  -    Algunas sienten que el formulario es necesario para obtener más información sobre los cursos. Información a la que les gustaría acceder antes de tomar una decisión de compra.
--     Con la información disponible su reacción es: “si no me queda claro no me voy a inscribir”.
+-    Con la información disponible su reacción es: “si no me queda claro no me voy a inscribir”.
 
 ## Definición del público usuario
 
@@ -60,13 +60,13 @@ El objetivo es crear un nuevo formato con la información más digerible y conci
 
 Nuestro prototipo es el siguiente: https://www.figma.com/proto/oC5V3x8UFdoGZljCKTiO5L/VICTORIA-147?node-id=13%3A6&scaling=contain
 
-### Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto
+### ¿Cómo los contenidos y funcionalidades responden a los objetivos del proyecto?
 
 Buscamos simplificar el flujo para crear vías más directas a la página de academia online así como la reducción de contenido en algunas páginas y un formato general para los cursos el cual nos muestra una pequeña descripción de lo que consta el programa para que ubiques cual es el indicado para ti.
 Dando click en cualquiera de los 2 programas encontraras la misma información detallada de los 2 cursos  formando  una estructura que consta de: introducción, duración aproximada del curso un temario, el alcance que tendrás con el programa, el costo y formas de pago .
 Así como una presencia mas visual de los fellows y las victorias  así como una explicación de su significado
 
-### Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
+### ¿Cómo los contenidos y funcionalidades resuelven cada una de las necesidades del usuario final?
 
 Con base en los resultados de nuestra investigación y la definición de los problemas a resolver decidimos proponer algunas modificaciones a la página de Academia Online Victoria 147, retomando buena parte del diseño y contenido con el que contaban previamente. Enseguida enlistamos las propuestas de cambios:
 1.    Rutas de llegada a Academia online desde la página principal de Victoria147:
