@@ -56,5 +56,28 @@ Aurora se mete a la página, encuentra con que hay dos modalidades, la Presencia
 ### ¿Cómo podemos transmitir el objetivo de Academia Online para que nos permita concluir el funnel de conversión?
 
 De acuerdo a los resultados de las pruebas de usabilidad, el mapa de empatía y la propuesta de valor canvas se llega a la conclusión de hacer un rediseño a la página web de Academia Online.
-El objetivo es crear un nuevo formato con la información más digerible y concisa que nos lleve paso a paso desde conocer los programas hasta finalizar la compra y empezar tu curso sin ninguna.
+El objetivo es crear un nuevo formato con la información más digerible y concisa que nos lleve paso a paso desde conocer los programas hasta finalizar la compra y empezar el curso sin ningun problema.
 
+Nuestro prototipo es el siguiente: https://www.figma.com/proto/oC5V3x8UFdoGZljCKTiO5L/VICTORIA-147?node-id=13%3A6&scaling=contain
+
+### Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto
+
+Buscamos simplificar el flujo para crear vías más directas a la página de academia online así como la reducción de contenido en algunas páginas y un formato general para los cursos el cual nos muestra una pequeña descripción de lo que consta el programa para que ubiques cual es el indicado para ti.
+Dando click en cualquiera de los 2 programas encontraras la misma información detallada de los 2 cursos  formando  una estructura que consta de: introducción, duración aproximada del curso un temario, el alcance que tendrás con el programa, el costo y formas de pago .
+Así como una presencia mas visual de los fellows y las victorias  así como una explicación de su significado
+
+### Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
+
+Con base en los resultados de nuestra investigación y la definición de los problemas a resolver decidimos proponer algunas modificaciones a la página de Academia Online Victoria 147, retomando buena parte del diseño y contenido con el que contaban previamente. Enseguida enlistamos las propuestas de cambios:
+1.    Rutas de llegada a Academia online desde la página principal de Victoria147:
+-    Proponemos que en la imagen que aparece en el carrusel de inicio solamente se quede la sección con la información y el enlace a la página de Academia online.
+-    Proponemos que en la sección de Academia (a la cual se accede desde el menú principal ubicado en la parte superior) la imagen principal donde aparecen los nombres Academia Presencial y Academia Online, sean ambos acceso directos a las páginas correspondientes.
+2.    Proponemos renovar la imagen principal de la landing page de Academia Online por una imagen que se vea más clara (sin utilizar filtros que la oscurezcan), que represente una situación relacionada con Academia online (por ejemplo una mujer con una computadora) y con una imagen y actitud que genere más empatía. Que sea lo más sencilla posible.
+3.    Sugerimos tener inmediatamente una sección que permita crear una conexión entre la propuesta de Academia online Victoria147 y las usuarias, titulada ¿Es para mi? En la cual haya información e inspiración para las interesadas en los cursos online.
+4.    La siguiente sección sería una en la que de vista se distingan los dos cursos que ofrece Academia online. Información general sobre la propuesta de la academia y la información específica de cada uno. Cada de una de las tarjetas de display de la información de cada curso son enlaces a la página de cada uno donde se detalla más sobre los mismos.
+4.1    Esta es una de las propuestas que consideramos más relevantes en función de lo observado en las pruebas de usabilidad.
+Proponemos que se homogenice la información que se proporciona de cada uno de los cursos. Banner con nombre, descripción, costo y botón que permite ir directo a la compra. Al hacer scroll irá apareciendo la información principal: Síntesis, perfil de ingreso, duración, tiempo de estudio a la semana, objetivos, temario, alcances esperados, costo y botón de compra, preguntas frecuentes, posibilidad de regresar a ver todos los cursos.
+5.    Después de la sección de programas proponemos que se presenten a los fellows de Victoria147, ya que es uno de los temas que más dudas generaron en las pruebas de usabilidad. En la página actual los fellows solamente aparecen en la página del programa de Validación y sugerimos que se presenten de manera general.
+6.    Seguido de los fellows, proponemos que se presenten a las Victorias, que son los casos de éxito de egresadas de Academia Victoria147. Anteriormente este apartado se mostraba solamente en la sección Quiénes somos. Con base en la investigación de benchmark que realizamos, notamos que en otras páginas los testimonios se mostraban como parte de la información principal que inspira y motiva a inscribirse/comprar un curso online.
+7.    La siguiente sección sería Comunidad, en la cual sugerimos que se muestren fotografías con las mujeres que son parte de Victoria 147. Sugerimos que podamos verlas a ellas, su diversidad, quiénes son parte de la red (networking) con el fin de generar más empatía entre las interesadas.
+8.    Finalmente retomamos un breve copy para permitir a las usuarias regresar al sitio de Academia presencial en el caso de que sientan que Academia online no es para ellas. Y por último el footer con acceso a diversas secciones de la página y redes sociales.
