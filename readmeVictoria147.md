@@ -62,9 +62,9 @@ Nuestro prototipo es el siguiente: https://www.figma.com/proto/oC5V3x8UFdoGZljCK
 
 ### ¿Cómo los contenidos y funcionalidades responden a los objetivos del proyecto?
 
-Buscamos simplificar el flujo para crear vías más directas a la página de academia online así como la reducción de contenido en algunas páginas y un formato general para los cursos el cual nos muestra una pequeña descripción de lo que consta el programa para que ubiques cual es el indicado para ti.
-Dando click en cualquiera de los 2 programas encontraras la misma información detallada de los 2 cursos  formando  una estructura que consta de: introducción, duración aproximada del curso un temario, el alcance que tendrás con el programa, el costo y formas de pago .
-Así como una presencia mas visual de los fellows y las victorias  así como una explicación de su significado
+Buscamos simplificar el flujo para crear vías más directas a la página de Academia Online; redujimos el contenido en algunas páginas; homologamos el formato en que se muestran los programas, el cual nos muestra una pequeña descripción de cada uno para que la usuaria elija cual es el indicado para ella.
+Dando click en cualquiera de los 2 programas encontrarán la misma información detallada de los 2 cursos  formando  una estructura que consta de: introducción, duración aproximada del curso un temario, el alcance que tendrás con el programa, el costo y formas de pago .
+Aumentamos la presencia visual de los fellows y las victorias así como una explicación de su significado y participación en los programas.
 
 ### ¿Cómo los contenidos y funcionalidades resuelven cada una de las necesidades del usuario final?
 
