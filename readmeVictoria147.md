@@ -81,3 +81,9 @@ Proponemos que se homogenice la información que se proporciona de cada uno de l
 6.    Seguido de los fellows, proponemos que se presenten a las Victorias, que son los casos de éxito de egresadas de Academia Victoria147. Anteriormente este apartado se mostraba solamente en la sección Quiénes somos. Con base en la investigación de benchmark que realizamos, notamos que en otras páginas los testimonios se mostraban como parte de la información principal que inspira y motiva a inscribirse/comprar un curso online.
 7.    La siguiente sección sería Comunidad, en la cual sugerimos que se muestren fotografías con las mujeres que son parte de Victoria 147. Sugerimos que podamos verlas a ellas, su diversidad, quiénes son parte de la red (networking) con el fin de generar más empatía entre las interesadas.
 8.    Finalmente retomamos un breve copy para permitir a las usuarias regresar al sitio de Academia presencial en el caso de que sientan que Academia online no es para ellas. Y por último el footer con acceso a diversas secciones de la página y redes sociales.
+
+Creamos en Google Drive una carpeta donde vaciamos toda la información, y un tablero en Miró para sistemtizarla:
+
+https://drive.google.com/drive/u/1/folders/1zlnLKX5RP6xQKKRfRk3UXs5Pdg1kOnT7
+
+https://miro.com/app/board/o9J_kxdzV8I=/
